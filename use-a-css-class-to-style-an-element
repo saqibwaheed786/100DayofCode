@@ -3,7 +3,7 @@
 		color: red;
 	}
 </style>
-
+<!--style as a element--> 
 <h2 class="red-text">CatPhotoApp</h2>
 <main>
 	<p>Click here to view more
