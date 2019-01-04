@@ -13,6 +13,14 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 | ------------- | ------------ |
 | December 30, 2018 | April 20, 2019 |
 
+## Plan
+- [-] Learn HTML
+- [-] Learn CSS
+- [-] Learn JavaScript
+- [-] Become Familiar with DataBase(MongoDB)
+- [-] Learn the basics of backend programming
+- [-] Familarize myself with how everything flows and works together as a whole
+
 ## 1. Responsive Web Design Certification (300 hours)
 ### Day 1: December 30, 2018 - Sunday
   
