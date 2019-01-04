@@ -20,6 +20,7 @@
 	}
 </style>
 <!-- There are two implementations for this task first define CSS borders properties like style color and width and second define image class thick green border - -->
+
 <h2 class="red-text">CatPhotoApp</h2>
 <main>
 	<p class="red-text">Click here to view more
