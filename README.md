@@ -21,6 +21,10 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [-] Learn the basics of backend programming
 - [-] Familarize myself with how everything flows and works together as a whole
 
+### Things I'll Do 
+👁‍🗨 Code review -[+] (https://www.freecodecamp.org/saqibwaheed)
+
+
 ## 1. Responsive Web Design Certification (300 hours)
 ### Day 1: December 30, 2018 - Sunday
   
