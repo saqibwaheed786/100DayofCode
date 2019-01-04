@@ -88,7 +88,11 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [My FCC Code Portfolio](https://www.freecodecamp.org/saqibwaheed "Saqib Waheed's code portfolio on FreeCodeCamp")
 
 ### Day 5: January 04, 2019 - Thursday
-
+- Set the Font Family of an Element
+- Import a Google Font
+- Specify How Fonts Should Degrade
+- Size Your Images
+- Add Borders Around Your Elements
 
  **Link to work:**
 - [My FCC Code Portfolio](https://www.freecodecamp.org/saqibwaheed "Saqib Waheed's code portfolio on FreeCodeCamp")
