@@ -28,7 +28,7 @@
 		width: 100px;
 	}
 </style>
-<!-- in above Define a class named silver-background within the style element and assign the value of silver to the background-color property.--> 
+<!-- in above Define a class named silver-background within the style element and assign the value of silver to the background-color property.-->
 <h2 class="red-text">CatPhotoApp</h2>
 <main>
 	<p class="red-text">Click here to view more
