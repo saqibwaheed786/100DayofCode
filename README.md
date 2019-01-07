@@ -97,7 +97,16 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
  **Link to work:**
 - [My FCC Code Portfolio](https://www.freecodecamp.org/saqibwaheed "Saqib Waheed's code portfolio on FreeCodeCamp")
 
+### Day 6: January 07, 2019 - Monday
+- Make Circular Images with A Border Radius
+- Adjust the Margin of An Element	
+- Adjust the Padding of An Element		
+- Use An Id Attribute To Style An Element	
+- Set the Id of An Element		
+- Give A Background Color To A Div Element
 
+ **Link to work:**
+- [My FCC Code Portfolio](https://www.freecodecamp.org/saqibwaheed "Saqib Waheed's code portfolio on FreeCodeCamp")
 
 
 
