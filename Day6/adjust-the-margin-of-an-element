@@ -15,7 +15,7 @@
     background-color: yellow;
     padding: 10px;
   }
-  
+
   .red-box {
     background-color: crimson;
     color: #fff;
@@ -30,7 +30,7 @@
     margin: 20px;
   }
 </style>
-<!-- in blue box class margen element should be same as red box like 20px--> 
+<!-- in blue box class margen element should be same as red box like 20px-->
 <h5 class="injected-text">margin</h5>
 
 <div class="box yellow-box">
