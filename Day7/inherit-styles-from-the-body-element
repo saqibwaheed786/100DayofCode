@@ -1,0 +1,13 @@
+<style>
+	body {
+		background-color: black;
+		color: green;
+		font-family: monospace;
+		/*  this above procedure called "bady element's style declaration"*/
+	}
+</style>
+<h1> Hello World </h1>
+
+
+
+<!-- h1 tag should be outside the "stlye" tag and "color" and "font-family"tag should be in body -->
