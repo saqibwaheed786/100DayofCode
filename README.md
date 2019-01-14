@@ -108,5 +108,26 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
  **Link to work:**
 - [My FCC Code Portfolio](https://www.freecodecamp.org/saqibwaheed "Saqib Waheed's code portfolio on FreeCodeCamp")
 
+### Day 7: January 14, 2019 - Monday
+- Use A Media Query To Change A Variable		
+- Change A Variable for A Specific Area		
+- Cascading Css Variables		
+- Improve Compatibility with Browser Fallbacks	
+- Attach A Fallback Value To A Css Variable		
+- Use A Custom Css Variable		
+- Create A Custom Css Variable		
+- Use Css Variables To Change Several Elements At Once		
+- Use Rgb To Mix Colors		
+- Use Rgb Values To Color Elements		
+- Use Abbreviated Hex Code		
+- Use Hex Code To Mix Colors		
+- Use Hex Code for Specific Colors		
+- Override All Other Styles By Using Important		
+- Override Class Declarations with Inline Styles		
+- Override Class Declarations By Styling Id Attributes		
+- Override Styles In Subsequent Css		
+- Prioritize One Style Over Another
 
+ **Link to work:**
+- [My FCC Code Portfolio](https://www.freecodecamp.org/saqibwaheed "Saqib Waheed's code portfolio on FreeCodeCamp")
 
