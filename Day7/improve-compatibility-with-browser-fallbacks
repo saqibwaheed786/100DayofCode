@@ -1,0 +1,14 @@
+<style>
+  :root {
+    --red-color: red;
+  }
+  .red-box {
+    background: red;  
+    background: var(--red-color );
+    
+    height: 200px;
+    width:200px;
+  }
+  /* this task mean i added another background declaration before (mean above the existing declaration */
+</style>
+<div class="red-box"></div>
