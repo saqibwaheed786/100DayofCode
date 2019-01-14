@@ -1,0 +1,14 @@
+<style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }
+  .pink-text {
+    color: pink;
+  }
+  .blue-text {
+    color: blue; /*  declear the other class blow the "pink-text class" with syntex .blue-text  "class" should be within the <style> tag define and access by class name like in this example in h1 call class name "blue-text pink-text  */
+  }
+</style>
+<h1 class="blue-text pink-text">Hello World!</h1>
