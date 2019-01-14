@@ -1,0 +1,6 @@
+<style>
+  body {
+    background-color: rgb(0,0,0);
+  }
+  /* replace the hex code in body element's background color with the RGB value for black: rgb(0, 0, 0) */
+</style>
