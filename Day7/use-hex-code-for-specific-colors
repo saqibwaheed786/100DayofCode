@@ -1,0 +1,5 @@
+<style>
+  body {
+    background-color: #000000; /* in this example Replace the word black in body element's background-color with its hex code representation, #000000 */ 
+  }
+</style>
