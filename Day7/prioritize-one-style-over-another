@@ -1,0 +1,13 @@
+<style>
+	body {
+		background-color: black;
+		font-family: monospace;
+		color: green;
+	}
+.pink-text {
+		color: pink;
+		
+	}
+</style>
+<!-- declear the class pink with syntex .pink-text "class" should be in style define and access in h1 call class name like this example --> 
+<h1 class="pink-text">Hello World!</h1>
