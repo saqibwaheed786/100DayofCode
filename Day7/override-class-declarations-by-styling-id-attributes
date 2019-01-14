@@ -1,0 +1,22 @@
+<style>
+	body {
+		background-color: black;
+		font-family: monospace;
+		color: green;
+	}
+
+	.pink-text {
+		color: pink;
+	}
+
+	.blue-text {
+		color: blue;
+	}
+
+	#orange-text {
+		color: orange;
+		/* This is the CSS declaration for my orange-text id,  id define by # and assign the color in this example this is orange  */
+	}
+</style>
+<h1 id="orange-text" class="pink-text blue-text">Hello World!</h1>
+<!-- in h1 element have id "orange text" -->
