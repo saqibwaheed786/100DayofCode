@@ -1,0 +1,5 @@
+<style>
+  body {
+    background: url(https://i.imgur.com/MJAkxbh.png); /*The background property supports the url() function in order to link to an image of the chosen texture or pattern. The link address is wrapped in quotes inside the parentheses.  */
+  }
+</style>
