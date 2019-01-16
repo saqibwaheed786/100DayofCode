@@ -131,3 +131,54 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
  **Link to work:**
 - [My FCC Code Portfolio](https://www.freecodecamp.org/saqibwaheed "Saqib Waheed's code portfolio on FreeCodeCamp")
 
+### Day 8: January 16, 2019 - Wednesday
+
+- Modify Fill Mode of An Animation		
+- Use Css Animation To Change the Hover State of A Button		
+- Learn How the Css Keyframes and Animation Properties Work		
+- Create A More Complex Shape Using Css and Html		
+- Create A Graphic Using Css		
+- Use the Css Transform Property Skewy To Skew An Element Along the Y Axis		
+- Use the Css Transform Property Skewx To Skew An Element Along the X Axis		
+- Use the Css Transform Scale Property To Scale An Element On Hover		
+- Use the Css Transform Scale Property To Change the Size of An Element		
+- Create Texture By Adding A Subtle Pattern As A Background Image		
+- Use A Css Linear Gradient To Create A Striped Element		
+- Create A Gradual Css Linear Gradient		
+- Adjust the Tone of A Color		
+- Adjust the Hue of A Color		
+- Adjust the Color of Various Elements To Complementary Colors		
+- Learn About Tertiary Colors		
+- Learn About Complementary Colors		
+- Center An Element Horizontally Using the Margin Property		
+- Change the Position of Overlapping Elements with the Z Index Property		
+- Push Elements Left Or Right with the Float Property		
+- Lock An Element To the Browser Window with Fixed Positioning		
+- Lock An Element To Its Parent with Absolute Positioning		
+- Move A Relatively Positioned Element with Css Offsets		
+- Change An Elements Relative Position		
+- Adjust the Hover State of An Anchor Tag		
+- Set the Line Height of Paragraphs		
+- Set the Font Size of Paragraph Text		
+- Set the Font Weight for Multiple Heading Elements		
+- Set the Font Size for Multiple Heading Elements		
+- Use the Text Transform Property To Make Text Uppercase		
+- Decrease the Opacity of An Element		
+- Add A Box Shadow To A Card Like Element		
+- Adjust the Size of A Header Versus A Paragraph Tag		
+- Adjust the Background Color Property of Text		
+- Create A Horizontal Line Using the Hr Element		
+- Use the S Tag To Strikethrough Text		
+- Use the Em Tag To Italicize Text		
+- Use the U Tag To Underline Text		
+- Use the Strong Tag To Make Text Bold		
+- Adjust the Height of An Element Using the Height Property		
+- Adjust the Width of An Element Using the Width Property		
+- Create Visual Balance Using the Text Align Property	
+
+ **Link to work:**
+- [My FCC Code Portfolio](https://www.freecodecamp.org/saqibwaheed "Saqib Waheed's code portfolio on FreeCodeCamp")
+
+
+
+
