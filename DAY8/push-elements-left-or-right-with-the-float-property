@@ -1,0 +1,30 @@
+<head>
+  <style>
+  #left {
+    float:left;
+    width: 50%;
+  }
+  #right {
+    
+    width: 40%;
+    float:right;
+  }
+  aside, section {
+    padding: 2px;
+    background-color: #ccc;
+  }
+  </style> <!-- in this example set float porperty in both left and right id's   -->
+</head>
+<body>
+  <header>
+    <h1>Welcome!</h1>
+  </header>
+  <section id="left">
+    <h2>Content</h2>
+    <p>Good stuff</p>
+  </section>
+  <aside id="right">  <!--The <aside> tag defines some content aside from the content it is placed in. see above -->
+    <h2>Sidebar</h2>
+    <p>Links</p>
+  </aside>
+</body>
