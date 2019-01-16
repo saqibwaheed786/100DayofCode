@@ -1,0 +1,10 @@
+<style>
+	a {
+		color: #000;
+	}
+
+	a:hover {
+		color: blue;
+	}
+</style><!-- the link change the color when cursor on the link it will blue by using "hover" pseudo class  --> 
+<a href="http://freecatphotoapp.com/" target="_blank">CatPhotoApp</a>
