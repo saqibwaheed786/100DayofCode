@@ -1,0 +1,26 @@
+<style>
+	div {
+		height: 40px;
+		width: 70%;
+		background: black;
+		margin: 50px auto;
+		border-radius: 5px;
+	}
+
+	#rect {
+		animation-name: rainbow; /* "animaton-name" is property of id (rect) and rainbow is value  */
+		animation-duration: 4s;
+	}
+  @keyframes rainbow {  /* @keyframes is the rule in CSS */ 
+    0% { 
+      background-color: blue; 
+    } /* background color blue 0%    */
+    50%{
+      background-color: green; 
+    } /* background color green 50%    */
+    100% {
+      background-color: yellow; 
+    }/* background color yellow at 100% */
+  }
+</style>
+<div id="rect"></div>
