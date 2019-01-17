@@ -179,6 +179,18 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
  **Link to work:**
 - [My FCC Code Portfolio](https://www.freecodecamp.org/saqibwaheed "Saqib Waheed's code portfolio on FreeCodeCamp")
 
+### Day 8: January 17, 2019 - Thursday
+- Create Movement Using CSS Animation
+- Create Visual Direction by Fading an Element from Left to Right
+- Animate Elements Continually Using an Infinite Animation Count
+- Make a CSS Heartbeat using an Infinite Animation Count
+- Animate Elements at Variable Rates
+- Animate Multiple Elements at Variable Rates
+- Change Animation Timing with Keywords
+- Learn How Bezier Curves Work
+- Use a Bezier Curve to Move a Graphic
+- Make Motion More Natural Using a Bezier Curve
 
-
+ **Link to work:**
+- [My FCC Code Portfolio](https://www.freecodecamp.org/saqibwaheed "Saqib Waheed's code portfolio on FreeCodeCamp")
 
