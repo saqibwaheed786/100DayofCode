@@ -132,6 +132,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [My FCC Code Portfolio](https://www.freecodecamp.org/saqibwaheed "Saqib Waheed's code portfolio on FreeCodeCamp")
 
 ### Day 8: January 16, 2019 - Wednesday
+#### Applied Visual Design
 
 - Modify Fill Mode of An Animation		
 - Use Css Animation To Change the Hover State of A Button		
@@ -180,6 +181,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [My FCC Code Portfolio](https://www.freecodecamp.org/saqibwaheed "Saqib Waheed's code portfolio on FreeCodeCamp")
 
 ### Day 9: January 17, 2019 - Thursday
+#### Applied Visual Design
 - Create Movement Using CSS Animation
 - Create Visual Direction by Fading an Element from Left to Right
 - Animate Elements Continually Using an Infinite Animation Count
@@ -195,7 +197,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [My FCC Code Portfolio](https://www.freecodecamp.org/saqibwaheed "Saqib Waheed's code portfolio on FreeCodeCamp")
 
 ### Day 10: January 22, 2019 - Tuesday
-
+#### Applied Accessibility
 - Introduction to the Applied Accessibility Challenges
 - Add a Text Alternative to Images for Visually Impaired Accessibility
 - Know When Alt Text Should be Left Blank
@@ -223,5 +225,27 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
  **Link to work:**
 - [My FCC Code Portfolio](https://www.freecodecamp.org/saqibwaheed "Saqib Waheed's code portfolio on FreeCodeCamp")
 
+### Day 11: January 23, 2019 - wednesday
+#### Responsive Web Design Principles
 
+- Create a Media Query
+- Make an Image Responsive
+- Use a Retina Image for Higher Resolution Displays
+- Make Typography Responsive
+#### CSS Flexbox
+- Use display: flex to Position Two Boxes
+- Add Flex Superpowers to the Tweet Embed
+- Use the flex-direction Property to Make a Row
+- Apply the flex-direction Property to Create Rows in the Tweet Embed
+- Use the flex-direction Property to Make a Column
+- Apply the flex-direction Property to Create a Column in the Tweet Embed
+- Align Elements Using the justify-content Property
+- Use the justify-content Property in the Tweet Embed
+- Align Elements Using the align-items Property
+- Use the align-items Property in the Tweet Embed
+- Use the flex-wrap Property to Wrap a Row or Column
+- Use the flex-shrink Property to Shrink Items
+
+**Link to work:**
+- [My FCC Code Portfolio](https://www.freecodecamp.org/saqibwaheed "Saqib Waheed's code portfolio on FreeCodeCamp")
 
