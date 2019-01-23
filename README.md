@@ -27,8 +27,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## 1. Responsive Web Design Certification (300 hours)
 ### Day 1: December 30, 2018 - Sunday
-  
- **Project: Introduction to Basic HTML and HTML5**
+  #### Basic HTML and HTML5
 - Say Hello to HTML Elements
 - Headline with the h2 Element
 - Inform with the Paragraph Element
@@ -43,7 +42,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [My FCC Code Portfolio](https://www.freecodecamp.org/saqibwaheed "Saqib Waheed's code portfolio on FreeCodeCamp")
 
 ### Day 2: January 01, 2019 - Thuesday
-
+#### Basic HTML and HTML5
 - Add Images to Your Website
 - Link to External Pages with Anchor Elements
 - Link to Internal Sections of a Page with Anchor Elements
@@ -57,7 +56,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [My FCC Code Portfolio](https://www.freecodecamp.org/saqibwaheed "Saqib Waheed's code portfolio on FreeCodeCamp")
 
 ### Day 3: January 02, 2019 - Thuesday
-
+#### Basic HTML and HTML5
 
 - Create a Text Field
 - Add Placeholder Text to a Text Field
@@ -75,9 +74,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [My FCC Code Portfolio](https://www.freecodecamp.org/saqibwaheed "Saqib Waheed's code portfolio on FreeCodeCamp")
 
 ### Day 4: January 03, 2019 - Wednesday
-
-**Project: Introduction to Basic CSS**
-
+#### Basic CSS
 - Change the Color of Text
 - Use CSS Selectors to Style Elements
 - Use a CSS Class to Style an Element
@@ -88,6 +85,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [My FCC Code Portfolio](https://www.freecodecamp.org/saqibwaheed "Saqib Waheed's code portfolio on FreeCodeCamp")
 
 ### Day 5: January 04, 2019 - Thursday
+#### Basic CSS
 - Set the Font Family of an Element
 - Import a Google Font
 - Specify How Fonts Should Degrade
@@ -98,6 +96,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [My FCC Code Portfolio](https://www.freecodecamp.org/saqibwaheed "Saqib Waheed's code portfolio on FreeCodeCamp")
 
 ### Day 6: January 07, 2019 - Monday
+#### Basic CSS
 - Make Circular Images with A Border Radius
 - Adjust the Margin of An Element	
 - Adjust the Padding of An Element		
@@ -109,6 +108,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [My FCC Code Portfolio](https://www.freecodecamp.org/saqibwaheed "Saqib Waheed's code portfolio on FreeCodeCamp")
 
 ### Day 7: January 14, 2019 - Monday
+#### Basic CSS
 - Use A Media Query To Change A Variable		
 - Change A Variable for A Specific Area		
 - Cascading Css Variables		
