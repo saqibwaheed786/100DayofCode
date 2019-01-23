@@ -62,7 +62,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - Add Placeholder Text to a Text Field
 - Create a Form Element
 - Cerate a Submit Button to a Form
-- HTML5 to Require a Field
+- Use HTML5 to Require a Field
 - Creat a Set of Radio Buttons
 - Creat a Set of Checkboxes
 - Radio Buttons and Checkboxes by Default
