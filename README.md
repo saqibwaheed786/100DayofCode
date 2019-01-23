@@ -61,10 +61,10 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - Create a Text Field
 - Add Placeholder Text to a Text Field
 - Create a Form Element
-- a Submit Button to a Form
+- Cerate a Submit Button to a Form
 - HTML5 to Require a Field
-- a Set of Radio Buttons
-- a Set of Checkboxes
+- Creat a Set of Radio Buttons
+- Creat a Set of Checkboxes
 - Radio Buttons and Checkboxes by Default
 - Nest Many Elements within a Single div Element
 - Declare the Doctype of an HTML Document
