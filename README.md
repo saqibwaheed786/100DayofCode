@@ -226,13 +226,16 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [My FCC Code Portfolio](https://www.freecodecamp.org/saqibwaheed "Saqib Waheed's code portfolio on FreeCodeCamp")
 
 ### Day 11: January 23, 2019 - wednesday
+
 #### Responsive Web Design Principles
 
 - Create a Media Query
 - Make an Image Responsive
 - Use a Retina Image for Higher Resolution Displays
 - Make Typography Responsive
+
 #### CSS Flexbox
+
 - Use display: flex to Position Two Boxes
 - Add Flex Superpowers to the Tweet Embed
 - Use the flex-direction Property to Make a Row
@@ -248,4 +251,44 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **Link to work:**
 - [My FCC Code Portfolio](https://www.freecodecamp.org/saqibwaheed "Saqib Waheed's code portfolio on FreeCodeCamp")
+
+### Day 12: January 25, 2019 - friday
+
+#### CSS Flexbox
+
+- Use the Flex Grow Property To Expand Items
+- Use the Flex Basis Property To Set the Initial Size of An Item
+- Use the Flex Shorthand Property
+- Use the Order Property To Rearrange Items
+- Use the Align Self Property
+
+#### CSS Grid
+
+- Create Your First Css Grid
+- Add Columns with Grid Template Columns
+- Add Rows with Grid Template Rows
+- Use Css Grid Units To Change the Size of Columns and Rows
+- Create A Column Gap Using Grid Column Gap
+- Create A Row Gap Using Grid Row Gap
+- Add Gaps Faster with Grid Gap
+- Use Grid Column To Control Spacing
+- Use Grid Row To Control Spacing
+- Align An Item Horizontally Using Justify Self
+- Align An Item Vertically Using Align Self
+- Align All Items Horizontally Using Justify Items
+- Align All Items Vertically Using Align Items
+- Divide the Grid Into An Area Template
+- Place Items In Grid Areas Using the Grid Area Property
+- Use Grid Area Without Creating An Areas Template
+- Reduce Repetition Using the Repeat Function
+- Limit Item Size Using the Minmax Function
+- Create Flexible Layouts Using Auto Fill
+- Create Flexible Layouts Using Auto Fit
+- Use Media Queries To Create Responsive Layouts
+- Create Grids Within Grids
+
+**Link to work:**
+- [My FCC Code Portfolio](https://www.freecodecamp.org/saqibwaheed "Saqib Waheed's code portfolio on FreeCodeCamp")
+
+
 
