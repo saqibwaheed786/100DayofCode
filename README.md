@@ -41,7 +41,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
  **Link to work:**
 - [My FCC Code Portfolio](https://www.freecodecamp.org/saqibwaheed "Saqib Waheed's code portfolio on FreeCodeCamp")
 
-### Day 2: January 01, 2019 - Thuesday
+### Day 2 
 #### Basic HTML and HTML5
 - Add Images to Your Website
 - Link to External Pages with Anchor Elements
@@ -55,7 +55,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
  **Link to work:**
 - [My FCC Code Portfolio](https://www.freecodecamp.org/saqibwaheed "Saqib Waheed's code portfolio on FreeCodeCamp")
 
-### Day 3: January 02, 2019 - Thuesday
+### Day 3 
 #### Basic HTML and HTML5
 
 - Create a Text Field
@@ -73,7 +73,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
  **Link to work:**
 - [My FCC Code Portfolio](https://www.freecodecamp.org/saqibwaheed "Saqib Waheed's code portfolio on FreeCodeCamp")
 
-### Day 4: January 03, 2019 - Wednesday
+### Day 4 
 #### Basic CSS
 - Change the Color of Text
 - Use CSS Selectors to Style Elements
@@ -84,7 +84,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
  **Link to work:**
 - [My FCC Code Portfolio](https://www.freecodecamp.org/saqibwaheed "Saqib Waheed's code portfolio on FreeCodeCamp")
 
-### Day 5: January 04, 2019 - Thursday
+### Day 5 
 #### Basic CSS
 - Set the Font Family of an Element
 - Import a Google Font
@@ -95,7 +95,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
  **Link to work:**
 - [My FCC Code Portfolio](https://www.freecodecamp.org/saqibwaheed "Saqib Waheed's code portfolio on FreeCodeCamp")
 
-### Day 6: January 07, 2019 - Monday
+### Day 6 
 #### Basic CSS
 - Make Circular Images with A Border Radius
 - Adjust the Margin of An Element	
@@ -107,7 +107,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
  **Link to work:**
 - [My FCC Code Portfolio](https://www.freecodecamp.org/saqibwaheed "Saqib Waheed's code portfolio on FreeCodeCamp")
 
-### Day 7: January 14, 2019 - Monday
+### Day 7 
 #### Basic CSS
 - Use A Media Query To Change A Variable		
 - Change A Variable for A Specific Area		
@@ -131,7 +131,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
  **Link to work:**
 - [My FCC Code Portfolio](https://www.freecodecamp.org/saqibwaheed "Saqib Waheed's code portfolio on FreeCodeCamp")
 
-### Day 8: January 16, 2019 - Wednesday
+### Day 8 
 #### Applied Visual Design
 
 - Modify Fill Mode of An Animation		
@@ -180,7 +180,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
  **Link to work:**
 - [My FCC Code Portfolio](https://www.freecodecamp.org/saqibwaheed "Saqib Waheed's code portfolio on FreeCodeCamp")
 
-### Day 9: January 17, 2019 - Thursday
+### Day 9 
 #### Applied Visual Design
 - Create Movement Using CSS Animation
 - Create Visual Direction by Fading an Element from Left to Right
@@ -196,7 +196,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
  **Link to work:**
 - [My FCC Code Portfolio](https://www.freecodecamp.org/saqibwaheed "Saqib Waheed's code portfolio on FreeCodeCamp")
 
-### Day 10: January 22, 2019 - Tuesday
+### Day 10 
 #### Applied Accessibility
 - Introduction to the Applied Accessibility Challenges
 - Add a Text Alternative to Images for Visually Impaired Accessibility
@@ -225,7 +225,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
  **Link to work:**
 - [My FCC Code Portfolio](https://www.freecodecamp.org/saqibwaheed "Saqib Waheed's code portfolio on FreeCodeCamp")
 
-### Day 11: January 23, 2019 - wednesday
+### Day 11 
 
 #### Responsive Web Design Principles
 
@@ -252,7 +252,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to work:**
 - [My FCC Code Portfolio](https://www.freecodecamp.org/saqibwaheed "Saqib Waheed's code portfolio on FreeCodeCamp")
 
-### Day 12: January 25, 2019 - friday
+### Day 12 
 
 #### CSS Flexbox
 
@@ -290,5 +290,14 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to work:**
 - [My FCC Code Portfolio](https://www.freecodecamp.org/saqibwaheed "Saqib Waheed's code portfolio on FreeCodeCamp")
 
+### Day 13 
+
+#### Introduction to the Responsive Web Design Projects
+
+- Build a Tribute Page
+
+### Day 14
+
+- Build a Survey Form
 
 
