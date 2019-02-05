@@ -1,0 +1,38 @@
+#title{
+  font-size:100px;
+  color:#8EE4AF
+}
+#sub-title{
+  color:#4056A1
+}
+
+#img-div {
+  background-color:black
+}
+img{
+  display:block;
+  max-width:800px;
+  height: auto;
+  margin:auto;
+}
+#img-caption{
+  color:white;
+}
+#heading{
+  font-size:50px;
+  color:#2E1114
+  
+}
+body{
+  text-align:center;
+}
+blockquote{
+  font-style:italic;
+  font-size:40px;
+}
+#tribute-info{
+  background-color:grey;
+}
+h4{
+  font-size:20px;
+}
