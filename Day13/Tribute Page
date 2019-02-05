@@ -1,0 +1,30 @@
+<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+
+<div id="main"> 
+  <h1 id="title">Naya Pakistan</h1>
+  <div id="sub-title"> Imran Khan Ka Pakistan  </div>
+  <div id="img-div">
+    <img id="image"src="http://gharana.pk/wp-content/uploads/2017/06/BOL-Naya-Pakistan-Imran-Khan-1-1024x587.jpg" alt= "pic form google ">
+    <div id="img-caption"> <strong> Imran khan Naya pakastan </strong>
+    </div> 
+    </div>
+  <div id="tribute-info">
+    <u1>
+      <h3 id="heading"> See Some Imran Khan Achivements in 100 Days:
+      </h3>
+      <li>Anti-corruption drive</li>
+      <li>Broadening exports</li>
+      <li>Investor-friendly policies</li>
+      <li>Tourism-friendly policies</li>
+      <li> Decrease gas price for industries </li>
+ 
+      <li>Decrease fuel prices by removing taxes</li>
+       
+      <li>Modern technology for farmers</li>
+      <li>Supporting fishing, poultry and shrimp farming</li>
+      
+      
+    </u1>
+    <blockquote> <p> The more you study, the more you know; how less you know </p> <div> "Imran Khan" </div> </blockquote>
+    <h4> Read more about Naya Pakistan and Imran Khan <a href="http://www.insaf.pk" id="tribute-link" target="_blank"> hear </a>.</h4>  
+  </div>
