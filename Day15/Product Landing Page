@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8">
+  <title></title>
+
+  <link rel="stylesheet" href="C:\100DaysCoding\LindinPage\style.css">
+    </head>
+
+<body>
+  <div id="container">
+
+    <header id="header">
+      <div id="image">
+        <div id="title">
+          <img id="header-img" alt="product logo thing" src="http://www.dumontcarre.de/assets/images/logos/400/logo_kaya.png">
+          <h1 style="color: black">Kaya <span style="color:green">Salat</span></h1>
+        </div>
+      </div>
+      <div>
+        <nav id="nav-bar">
+          <a class="nav-link" href="#features-anchor">Home</a>
+          <a class="nav-link" href="#video-anchor">Video</a>
+          <a class="nav-link" href="#form">KONTAKT</a>
+        </nav>
+      </div>
+    </header>
+
+    <div id="main-body">
+      <p id="features-anchor"></p>
+      <div>
+        <h2>Home</h1>
+      </div>
+      <div id="feature-container">
+        <div class="features">
+          <h3>Döner</h3>
+          <p><strong>Kaya Salat</strong> in NRW ist bekannt für leckere Döner Variationen für Fleischliebhaber und Vegetarier.<br>Seit 1997 bieten wir ein schmackhaftes Döner Erlebnis mit Weizen- und Vollkornbrot, zahlreichen Gemüsesorten, verschiedenen Gewürzen und 5 Soßen, sowie hochwertigem Fleisch..</p>
+          <div class="image1"></div>
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5sv7MtRdXG1tOZZZqx92OkBHlUIc-wVihmRiqxaa6A1ZHjbZs9A" alt="Döner" width="250" height="250">
+
+        </div>
+        <div class="features">
+          <h3>Salat</h3>
+          <p>
+            Best and Frech Salat von Kaya Salat</p>
+          <div class="image"></div>
+
+        </div>
+        <div class="features">
+          <h3 id="video-anchor">Video</h3>
+          <p>Our XXL Döner </p>
+        </div>
+      </div>
+
+      <div id="video-wrapper">
+        <div>
+          <p>This is our XXL Döner </p>
+        </div>
+        <iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/nciqYH0Pd9k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+
+      <div id="models">
+        <div class="model-class">
+          <div class="model-name">
+            <h2>SPEISEKARTE</h2>
+
+          </div>
+          <div class="model-description">
+            <p>SPEISEKARTE<br>
+            <img src="http://www.stardönernauheim.de/wp-content/uploads/2018-2-15_9048.jpg" alt="Döner" width="250" height="250">
+
+          </div>
+
+        </div>
+        <div class="model-class">
+          <div class="model-name">
+            <h2>Special Salat</h2>
+          </div>
+          <div class="model-description">
+            <p>-our Special Döner</p>
+          </div>
+
+        </div>
+        <div class="model-class">
+          <div class="model-name">
+            <h2>Disches</h2>
+          </div>
+          <div class="model-description">
+            <p>-our Special Döner</p>
+          </div>
+
+        </div>
+      </div>
+
+      <div id="info">
+        <h3>For more information</h3>
+        <form id="form" action="https://www.freecodecamp.com/email-submit" method="get">
+          <label for="email" id="email-label"><input id="email" name="email" type="email" placeholder="Enter your email"></input></label>
+          <div id="button-container">
+            <input type="submit" id="submit" value="SEND Us email"></input>
+          </div>
+        </form>
+      </div>
+    </div>
+
+    <footer>
+      <div>
+        <nav>
+          <a href="#">Privacy</a>
+          <a href="#">Terms</a>
+          <a href="#">Contact</a>
+        </nav>
+      </div>
+
+    </footer>
+
+  </div>
+</body>
+
+</html>
