@@ -306,4 +306,11 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to work:**
 - [My FCC Code Portfolio](https://www.freecodecamp.org/saqibwaheed "Saqib Waheed's code portfolio on FreeCodeCamp")
 
+### Day 15
+
+- Build a Product Landing Page
+
+**Link to work:**
+- [My FCC Code Portfolio](https://www.freecodecamp.org/saqibwaheed "Saqib Waheed's code portfolio on FreeCodeCamp")
+
 
