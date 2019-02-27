@@ -366,6 +366,10 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - Exercise5.10
 - Exercise5.11
 
+### Day 21
+#### Chapter 6:Dictionaries
+_ Alien
+
 
 
 
