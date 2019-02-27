@@ -317,12 +317,12 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Python-Crash-Course by Eric Matthes
 
 -Chapter 1: Getting Started
--Hello World
+- Hello World
 
 ### Day 17
 -Chapter 2: Variables and Simple Datatypes
--Birthday
--Name
+- Birthday
+- Name
 
 ### Day 18
 -Chapter 3: Introducing Lists
