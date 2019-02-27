@@ -316,6 +316,8 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ### Day 16
 #### Python-Crash-Course by Eric Matthes
 
+“All of these projects are well thought out and presented in such a way that learning the subject matter and implementing it is much more an enjoyable pastime rather than an onerous task that must be completed. Eric took the time to deal with some rather complex projects and lay them out in a consistent, logical and pleasant manner that draws the reader into the subject willingly, which unfortunately, many authors fail to do.”
+
 #### Chapter 1: Getting Started
 - Hello World
 
