@@ -1,1 +1,9 @@
 
+message ="Hello Python World!"
+print(message)
+
+message="hello Python crash course World"
+print(message)
+
+name = "ada lovelace"
+print(name.title())
