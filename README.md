@@ -313,4 +313,67 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to work:**
 - [My FCC Code Portfolio](https://www.freecodecamp.org/saqibwaheed "Saqib Waheed's code portfolio on FreeCodeCamp")
 
+### Day 16
+#### Python-Crash-Course by Eric Matthes
+
+-Chapter 1: Getting Started
+-Hello World
+
+### Day 17
+-Chapter 2: Variables and Simple Datatypes
+-Birthday
+-Name
+
+### Day 18
+-Chapter 3: Introducing Lists
+-Motorcycles
+-Cars
+
+### Day 19
+-Chapter 4: Working With Lists
+-Magicians
+-Numbers
+-Squares
+-Players
+-Foods
+-Dimensions
+-sum
+-List Comprehensions
+-Exercise4.1
+-Exercise4.2
+-Exercise4.3
+-Exercise4.10
+-Exercise4.11
+-Exercise4.13
+
+### Day 20
+-Chapter 5:If Statements
+-Cars
+-Toppings
+-Magic Number
+-Banned Users
+-Voting
+-Amusement Park
+-Toppings2
+-Toppings3
+-Exercise5.3
+-Exercise5.6
+-Exercise5.7
+-Exercise5.8
+-Exercise5.9
+-Exercise5.10
+-Exercise5.11
+
+
+
+
+
+
+
+
+
+
+
+
+
 
