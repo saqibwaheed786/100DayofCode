@@ -1,0 +1,79 @@
+     # ''Looping Through All Key-Value Pairs''
+
+favorite_languages ={
+'jen':'python',
+'sarah':'c',
+'edward':'ruby',
+'phil':'python'
+}
+for name,language in favorite_languages.items():
+  print(name.title()+ "'s favorite language is "+
+  language.title()+".")
+# ------------------------------------------------------------------------------
+           # Looping Through All the Keys in a Dictionary
+
+
+favorite_languages ={
+'jen':'python',
+'sarah':'c',
+'edward':'ruby',
+'phil':'python'
+}
+for name in favorite_languages.keys():
+  print(name.title())
+# ------------------------------------------------------------------------
+                          #Commen language
+favorite_languages ={
+'jen':'python',
+'sarah':'c',
+'edward':'ruby',
+'phil':'python'
+}
+friend = ['phil','sarah']
+for name in favorite_languages.keys():
+  print(name.title())
+
+  if name in friend:
+    print("Hi " + name.title() + ", I see your favorite language is "+ favorite_languages[name].title() +"!")
+# ------------------------------------------------------------------------------------------------------------------------
+                                          # find out if a particular person was polled.
+favorite_languages ={
+'jen':'python',
+'sarah':'c',
+'edward':'ruby',
+'phil':'python'
+}
+if 'erin' not in favorite_languages.keys():
+  print("Erin, please take our poll!")
+  # ----------------------------------------------------------------------------------------------------
+                            # Looping Through a Dictionary’s Keys in Order
+favorite_languages ={
+'jen':'python',
+'sarah':'c',
+'edward':'ruby',
+'phil':'python'
+}
+for name in sorted(favorite_languages.keys()):
+  print(name.title()+ ", thank you for taking the poll.")
+# ----------------------------------------------------------------------------------------------------
+                 # Looping Through All Values in a Dictionary
+favorite_languages ={
+'jen':'python',
+'sarah':'c',
+'edward':'ruby',
+'phil':'python'
+}
+print("The following languages have been mentioned:")
+for language in favorite_languages.values():
+  print(language.title())
+# ----------------------------------------------------------------------------------------------------
+                            # values without repetition
+favorite_languages ={
+'jen':'python',
+'sarah':'c',
+'edward':'ruby',
+'phil':'python'
+}
+print("The following languages have been mentioned:")
+for language in set(favorite_languages.values()):
+  print(language.title())
