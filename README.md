@@ -376,6 +376,8 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Chapter 6:Dictionaries
 - Exercise6.2
 - Exercise6.3
+- Favorite Languages2
+- Exercise6.4
 
 
 
