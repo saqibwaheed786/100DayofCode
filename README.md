@@ -372,9 +372,10 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - Favorite Languages
 - Exercise6.1
 
-
-
-
+### Day 22
+#### Chapter 6:Dictionaries
+- Exercise6.2
+- Exercise6.3
 
 
 
