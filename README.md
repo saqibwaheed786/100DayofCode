@@ -384,7 +384,15 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - Exercise6.5
 - Exercise6.6
 
-
+### Day 24
+#### Chapter 6:Dictionaries
+- pizza
+- Favorite_languages3
+- Exercise6.7
+- Exercise6.8
+- Exercise6.9
+- Exercise6.10
+- Exercise6.11
 
 
 
