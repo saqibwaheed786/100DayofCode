@@ -379,7 +379,10 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - Favorite Languages2
 - Exercise6.4
 
-
+### Day 23
+#### Chapter 6:Dictionaries
+- Exercise6.5
+- Exercise6.6
 
 
 
