@@ -396,21 +396,21 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ### Day 24
 #### Chapter 7:User Input and While loops
--Parrot
--Greeter
--AGE
--Age.Comparison
--Rollercoster
--Modulo.Operator
--Even or Odd
--Exercise7.1
--Exercise7.2
--Exercise7.3
--Counting
--Parrot2
--Cities
--Counting2
--Exercise7.4
+- Parrot
+- Greeter
+- AGE
+- Age.Comparison
+- Rollercoster
+- Modulo.Operator
+- Even or Odd
+- Exercise7.1
+- Exercise7.2
+- Exercise7.3
+- Counting
+- Parrot2
+- Cities
+- Counting2
+- Exercise7.4
 
 
 
