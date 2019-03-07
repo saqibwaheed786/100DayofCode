@@ -394,7 +394,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - Exercise6.10
 - Exercise6.11
 
-### Day 24
+### Day 25
 #### Chapter 7:User Input and While loops
 - Parrot
 - Greeter
