@@ -9,7 +9,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **Commitment:** *I will code daily for the next 100 days.*
 
-|  Start Date   | End Date     |
+|  Start Date   |   2019 |
 | ------------- | ------------ |
 | December 30, 2018 | April 20, 2019 |
 
@@ -411,7 +411,18 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - Cities
 - Counting2
 - Exercise7.4
-
+### Day 26
+#### Chapter 7:User Input and While loops
+- Exercise7.5
+- Exercise7.6
+- Confirmed_users
+- Pets
+### Day 27
+#### Chapter 7:User Input and While loops
+- Mountain_poll
+- Exercise7.8
+- Exercise7.9
+- Exercise7.10
 
 
 
