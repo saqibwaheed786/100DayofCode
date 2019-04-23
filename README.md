@@ -415,11 +415,11 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Chapter 7:User Input and While loops
 - Exercise7.5
 - Exercise7.6
-- Confirmed_users
+- Confirmed_Users
 - Pets
 ### Day 27
 #### Chapter 7:User Input and While loops
-- Mountain_poll
+- Mountain_Poll
 - Exercise7.8
 - Exercise7.9
 - Exercise7.10
@@ -430,6 +430,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - Exercise8.1
 - Exercise8.2
 - Pets
+- Keywords_Arguments
 
 
 
