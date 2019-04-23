@@ -9,9 +9,9 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **Commitment:** *I will code daily for the next 100 days.*
 
-|  Start Date   |   2019 |
+|  Start Date   |   End Date |
 | ------------- | ------------ |
-| December 30, 2018 | April 20, 2019 |
+| December 30, 2018 | 2019 |
 
 ## Plan
 - [-] Learn HTML
@@ -424,6 +424,9 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - Exercise7.9
 - Exercise7.10
 
+### Day 28
+#### Chapter 8: Functions
+- Greeter
 
 
 
