@@ -427,6 +427,9 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ### Day 28
 #### Chapter 8: Functions
 - Greeter
+- Exercise8.1
+- Exercise8.2
+- Pets
 
 
 
