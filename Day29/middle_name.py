@@ -1,0 +1,11 @@
+def get_formatted_name(first_name, last_name, middle_name=''):# when here we provide middle name then i will show. 
+  """Return a full name, neastly formatted."""
+  if middle_name:
+    full_name = first_name + '' + middle_name + '' + last_name
+  else:
+    full_name= first_name + '' + last_name
+  return full_name.title()
+
+musician = get_formatted_name('saqib ','malik ')
+print(musician)
+musician = get_formatted_name('saqib ', 'waheed ', 'malik' )
