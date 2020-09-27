@@ -13,11 +13,11 @@ def make_album(artist, title):
   album ={'artist': artist.title(), 'title': title.title() }
   return album
 
-musician = make_album('asha bhosle', 'lagaan: once upon a time in the india')
-print(musician)
+#musician = make_album('asha bhosle', 'lagaan: once upon a time in the india')
+#print(musician)
 
-musician = make_album('lata mangeshkar', 'sholay')
-print(musician)
+#musician = make_album('lata mangeshkar', 'sholay')
+#print(musician)
 
 musician = make_album('mohammad rafi', 'hum kisise kum naheen')
 print(musician)
