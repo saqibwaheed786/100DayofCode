@@ -4,6 +4,8 @@
 def describe_pet(animal_type, pet_name):
   """Display information about pet."""
   print("\nI have a " + animal_type + ".")
-  print("My " + animal_type + "'s name is " + pet_name.title() +"." )
+  print("My " + animal_type + " name is " + pet_name.title() +"." )
 
 describe_pet( animal_type = 'German Shepherd', pet_name = 'Rambo' )
+describe_pet( animal_type = 'Russian Cat', pet_name = 'Mano' )
+
